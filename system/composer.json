@@ -1,0 +1,9 @@
+{
+  "require": {
+
+  "smarty/smarty": "3.*.*"
+
+  }
+
+
+}
